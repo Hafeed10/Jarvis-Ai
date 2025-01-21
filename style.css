@@ -37,21 +37,20 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-left: 110px;
   width: 270;
   height: 280px;
   border-radius: 50%;
 }
 
 .main .image-container h1 {
-  color: #00bcd4;
+  color: #d40031;
   text-align: center;
   margin-bottom: 10px;
   font-size: 40px;
 }
 
 .main .image-container p {
-  color: #324042;
+  color: #3293a2;
   text-align: center;
   margin-bottom: 40px;
 }
@@ -63,7 +62,7 @@
   width: 40vw;
   height: 50px;
   border-radius: 20px;
-  background: rgb(202 253 255 / 50%);
+  background: rgba(5, 226, 234, 0.5);
 }
 
 .main .input .talk {
